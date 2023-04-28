@@ -1,18 +1,18 @@
 @font-face {
     font-family: "plaak-light";
-    src: url("Fonts/Plaak\ -\ 26-Ney-Light-205TF.ttf");
+    src: url("Plaak\ -\ 26-Ney-Light-205TF.ttf");
   }
   @font-face {
     font-family: "plaak-regular";
-    src: url("Fonts/Plaak\ -\ 36-Ney-Regular-205TF.ttf");
+    src: url("Plaak\ -\ 36-Ney-Regular-205TF.ttf");
   }
   @font-face {
     font-family: "plaak-bold";
-    src: url("Fonts/Plaak\ -\ 46-Ney-Bold-205TF.ttf");
+    src: url("Plaak\ -\ 46-Ney-Bold-205TF.ttf");
   }
   @font-face {
     font-family: "plaak-heavy";
-    src: url("Fonts/Plaak\ -\ 56-Ney-Heavy-205TF.ttf");
+    src: url("Plaak\ -\ 56-Ney-Heavy-205TF.ttf");
   }
 
 * {
